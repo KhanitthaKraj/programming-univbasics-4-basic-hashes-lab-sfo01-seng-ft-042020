@@ -7,7 +7,6 @@ def my_hash
     name: "Dream",
     food: "pizza"
   }
-  # return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
